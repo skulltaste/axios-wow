@@ -1,5 +1,7 @@
 # Axios
 
+The lock lives in [GUILD.md](GUILD.md).
+
 Holding page for [axios-wow.com](https://axios-wow.com).
 
 Axios is a Classic+ Alliance guild. Two raid teams. Realm TBD. Not recruiting.
