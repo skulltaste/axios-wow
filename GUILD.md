@@ -14,7 +14,7 @@ Do not link this file from the live homepage.
 | Realm | *(blank — TBD. Never invent a realm.)* |
 | Vibe | Two raid teams plus a community house. Not a hardcore top-end guild. |
 | Public send | Saturday September 12, 2026 (Discord founding). Drafts and private notes stay private until Brick sends. |
-| Discord | Existing Discord only. The invite is already on axios-wow.com. No second server. |
+| Discord | Existing Axios Discord only. No second server. The invite is internal until Brick sends on Saturday September 12, 2026. Do not put the invite on axios-wow.com. |
 
 ## Scale-down
 
