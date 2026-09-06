@@ -2,9 +2,9 @@
 
 The lock lives in [GUILD.md](GUILD.md).
 
-Holding page for [axios-wow.com](https://axios-wow.com).
+Public guild site for [axios-wow.com](https://axios-wow.com).
 
-Axios is a Classic+ Alliance guild. Two raid teams. Realm TBD. Not recruiting.
+Axios is a Classic+ Alliance guild. Large community with raid teams. Realm TBD.
 
 This repository is the site. Do not stand up a second site.
 

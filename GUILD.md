@@ -1,6 +1,6 @@
 # Axios — guild source of truth
 
-Last updated: Tuesday 1 September 2026 (America/Chicago).
+Last updated: Sunday 6 September 2026 (America/Chicago).
 Owner: Brick (GM). Planner: Classic. This file is the lock. Chat, Discord pins, the website, and rec copy must match it. If they disagree, this file wins until Brick changes it.
 
 Status: drafts only. Do not announce, recruit, post, or leak before Brick says the Saturday 12 September 2026 copy is final and he sends it. This file is not a public announcement and is not the Sep 12 send.
@@ -18,7 +18,7 @@ Do not link this file from the live homepage.
 | Faction | Alliance |
 | Realm | TBD. Leave blank. Never invent a realm. |
 | Region | NA assumed until Brick says otherwise |
-| Vibe | Two raid teams plus a community house. Not a hardcore top-end guild. |
+| Vibe | Large community with raid teams. Not a hardcore top-end guild. |
 | Team names | Team 1 and Team 2 until Brick names them. Do not assign which placeholder is casual and which is semi-hardcore. |
 | Community | The house, not a third raid. |
 | Tagline | Success sits on the shoulders of community. |
@@ -36,7 +36,7 @@ Classic+ is not a live game with realms yet. Sep 12 is a Discord founding, not a
 Locked September 1, 2026.
 
 - No hardcore top-end team.
-- Two raid teams: casual and semi-hardcore.
+- Raid intensities: casual and semi-hardcore.
 - Team names are still TBD. Use **Team 1** and **Team 2** as placeholders. Do not decide which placeholder is casual and which is semi-hardcore.
 - Do not invent team names in this file.
 - Community is the house, not a third raid.
@@ -66,7 +66,7 @@ Files in this repo:
 
 ## Charter (draft)
 
-Axios is two raid teams plus a community house. Same house, two rosters. Not a hardcore top-end guild. Alliance, Classic+. First wave is people we already raided with, invited on Discord.
+Axios is a large community with raid teams. Same house. Not a hardcore top-end guild. Alliance, Classic+. First wave is people we already raided with, invited on Discord.
 
 Show up ready on your team’s nights. Bring consumables and a working mic when we raid. Don’t be a jerk in Discord or in game. Alts are fine. A raid spot is earned on that team, not inherited from another.
 
@@ -147,7 +147,7 @@ Who we want: previous-guild people first, not a hard wall. Officer-vouched plus-
 
 Working send copy (Brick sends Sat 12 Sep, Discord only):
 
-> Axios. Classic+. Alliance. Two raid teams plus a community house. Inviting previous-guild people. Discord founding Saturday Sep 12. Realm still TBD. If you raided with us and you want a home, you’re in. Join Discord, tell us your old name and class, wait on the realm with us.
+> Axios. Classic+. Alliance. Large community with raid teams. Inviting previous-guild people. Discord founding Saturday Sep 12. Realm still TBD. If you raided with us and you want a home, you’re in. Join Discord, tell us your old name and class, wait on the realm with us.
 
 App questions (one message in `#applications`):
 
@@ -162,7 +162,7 @@ App questions (one message in `#applications`):
 
 No “are you shopping guilds?” question.
 
-`#how-to-apply` pin: You’re here because you raided with us. Axios is Classic+ Alliance, two raid teams plus a community house. Not a public rec blast. Realm TBD. Discord first. Copy the 8 questions, post one message in `#applications`. Not a ticket. Rec will DM you. Officers review in `#recruitment-review`.
+`#how-to-apply` pin: You’re here because you raided with us. Axios is Classic+ Alliance, a large community with raid teams. Not a public rec blast. Realm TBD. Discord first. Copy the 8 questions, post one message in `#applications`. Not a ticket. Rec will DM you. Officers review in `#recruitment-review`.
 
 Rec does not mass-DM the 100. Founding invite is Brick’s send. The Discord invite stays internal until Brick sends. Do not put the invite on axios-wow.com.
 
@@ -210,9 +210,9 @@ Click-path lives in Brick’s Dev chat. Step 1.3: Brick uploads the circular sea
 
 ## Website
 
-https://axios-wow.com — holding page only. Holding-page PR #1 is merged.
+https://axios-wow.com — public guild site. Identity, community/raid framing, charter, ranks, standing-up status. Not a quiet holding placeholder.
 
-Public copy: Classic+ · Alliance · two raid teams · realm TBD. Tagline on the lockup. “Not recruiting.” No Discord CTA, no apply, no invented team names, no raid times. Do not put the Discord invite on axios-wow.com.
+Public copy: Classic+ · Alliance · Large community with raid teams · Realm TBD. Tagline on the lockup. Community first. Casual and semi-hardcore are raid intensities, not named teams. Three bars on the A: community, casual, semi-hardcore. No hardcore top end. Status: Discord founding Sat Sep 12 · not open recruiting until Brick sends. No Discord CTA, no apply, no invented team names, no raid times. Do not put the Discord invite on axios-wow.com. The invite stays internal until Brick sends.
 
 This repository is the site. Do not stand up a second site.
 
