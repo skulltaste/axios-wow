@@ -1,0 +1,4 @@
+# GitHub Pages: keep the internal lock off the public site.
+exclude:
+  - GUILD.md
+  - README.md

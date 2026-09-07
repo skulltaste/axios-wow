@@ -1,6 +1,6 @@
 # Axios — guild source of truth
 
-Last updated: Sunday 6 September 2026 (America/Chicago).
+Last updated: Monday 7 September 2026 (America/Chicago).
 Owner: Brick (GM). Planner: Classic. This file is the lock. Chat, Discord pins, the website, and rec copy must match it. If they disagree, this file wins until Brick changes it.
 
 Status: drafts only. Do not announce, recruit, post, or leak before Brick says the Saturday 12 September 2026 copy is final and he sends it. This file is not a public announcement and is not the Sep 12 send.
@@ -212,7 +212,9 @@ Click-path lives in Brick’s Dev chat. Step 1.3: Brick uploads the circular sea
 
 https://axios-wow.com — public guild site. Identity, community/raid framing, charter, ranks, standing-up status. Not a quiet holding placeholder.
 
-Public copy: Classic+ · Alliance · Large community with raid teams · Realm TBD. Tagline on the lockup. Community first. Casual and semi-hardcore are raid intensities, not named teams. Three bars on the A: community, casual, semi-hardcore. No hardcore top end. Status: Discord founding Sat Sep 12 · not open recruiting until Brick sends. No Discord CTA, no apply, no invented team names, no raid times. Do not put the Discord invite on axios-wow.com. The invite stays internal until Brick sends.
+Public copy: Classic+ · Alliance · Large community with raid teams · Realm TBD. Tagline on the lockup. Community first. Casual and semi-hardcore are raid intensities, not named teams. Three bars on the A: community, casual, semi-hardcore. No hardcore top end. Status: Discord founding Saturday Sep 12 · invite not on this site. No Discord CTA, no apply, no invented team names, no raid times. Do not put the Discord invite on axios-wow.com. The invite stays internal until Brick sends.
+
+Do not put Brick’s name — or “until Brick sends” — on axios-wow.com. Public GM copy is the role title only (Guild Master / Runs the guild). “Talk to the GM” is fine. Do not link or deploy this file on the public site.
 
 This repository is the site. Do not stand up a second site.
 
