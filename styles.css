@@ -229,6 +229,12 @@ h3 {
   font-size: 0.95rem;
 }
 
+.closer {
+  margin: 24px 0 0;
+  max-width: 44rem;
+  color: var(--soft);
+}
+
 .bars {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
