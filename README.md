@@ -4,7 +4,7 @@ The lock lives in [GUILD.md](GUILD.md). That file is internal. Do not link it fr
 
 Public guild site for [axios-wow.com](https://axios-wow.com).
 
-Axios is a Classic+ Alliance community. Large community with raid teams. Realm TBD.
+Axios is a Warcraft Forever Alliance community. Large community with raid teams. Normal/PvE.
 
 This repository is the site. Do not stand up a second site.
 
